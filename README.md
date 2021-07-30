@@ -1,2 +1,3 @@
 # C-Progrmming-full-with-bug
-ok this is readme file
+There are few c programming I started for practice, but there are many bug.
+So try to fix it.  
